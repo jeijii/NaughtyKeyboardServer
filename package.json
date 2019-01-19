@@ -1,0 +1,27 @@
+{
+  "name": "naughtykeyboard-server",
+  "version": "1.0.0",
+  "description": "NaughtyKeyboard-Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeijii/NaughtyKeyboard-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeijii/NaughtyKeyboard-Server/issues"
+  },
+  "homepage": "https://github.com/jeijii/NaughtyKeyboard-Server#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-core": "^6.26.3",
+    "nodemon": "^1.18.9"
+  }
+}

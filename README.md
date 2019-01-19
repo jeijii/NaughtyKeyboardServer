@@ -1,1 +1,1 @@
-NaughtyKeyboardServer
+NaughtyKeyboard-Server
